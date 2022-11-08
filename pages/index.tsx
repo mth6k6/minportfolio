@@ -32,7 +32,7 @@ export default function Home() {
 
         <p> As a recent ICT graduate I am seeking challenging career with a progressive organization
         that provide the opportunity to capitalize my coding, analytical skills and abilities in IT field.
-        I would like to be a part of SOVTEC Team because like their SPEX and it one of the most progressive 
+        I would like to be a part of SOVTEC Team because I like their SPEX and it one of the most progressive 
         company that I have been always willing to join. I believe that with Sovtech, within a short period I
          will be able to get the most skills that I need to become a best full stack developer. </p> 
        
