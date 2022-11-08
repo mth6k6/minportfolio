@@ -12,7 +12,7 @@ import Navbar from '../Components/Navbar'
     <div> <h2 className={styles.description}> My Contact </h2></div>
 
     <div className={styles.description}>
-    <ul>Email: mthokozisi.nxumalo88@gmail.com</ul>
+    <ul>Email: mthokozisinxumalo88@gmail.com</ul>
     <ul>Mobile No: +27761062246</ul>
     <ul>LinkedIn: https://www.linkedin.com/in/mthokoh</ul> 
 </div>
